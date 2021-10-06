@@ -34,3 +34,11 @@ Below are examples of image cards. They can serve as links to your external data
 </div>
 
 </div><!-- end grid -->
+
+# Data table
+
+Another way to showcase your dataset is put them in tables. 
+
+| name | type | link |
+| thing 1 | type 1| [link 1](https://www.nobelprize.org/prizes/chemistry/2021/summary/) |
+| thing 2 | type 2| [link 2](https://www.improbable.com/2021-ceremony/winners/#ig2021) |
