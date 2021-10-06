@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Methodology
-permalink: /method/
+nav_order: 2
 ---
 
 

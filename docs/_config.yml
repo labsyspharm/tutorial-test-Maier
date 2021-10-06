@@ -26,7 +26,7 @@ hero_background: "/assets/images/hero_background.jpg"
 
 # Build settings
 remote_theme: jegra/just-the-docs@hms
-color_scheme: lsp
+# color_scheme: mcmicro
 heading_anchors: true
 
 # Banner links to include
