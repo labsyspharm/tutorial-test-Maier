@@ -7,9 +7,19 @@ last_modified_date: 2021-10-07
 
 ### Publication Summary
 
-# Full citation of the paper
+# Title of the paper
 
-Full list of authors. Provide links to personal pages if there is one.
+__Full list of authors. Provide links to personal pages if there is one.__
+
+Author affiliations
+- one university
+- two university
+
+Corresponding Author: email (optional)
+
+Publication Information (Journal, pages _etc._)
+
+DOI, PMID (if applicable)
 
 To view full publication:
 
