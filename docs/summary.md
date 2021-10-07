@@ -23,8 +23,8 @@ DOI, PMID (if applicable)
 
 To view full publication:
 
-[Journal Site](https://nature.com/){: .btn .btn-green .mr-4 }
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/){: .btn .btn-blue .mr-4}
+[Journal Site](https://nature.com/){: .btn .btn-green .mr-4 }{:target="_blank"}{:rel="noopener noreferrer"}
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/){: .btn .btn-blue .mr-4}{:target="_blank"}{:rel="noopener noreferrer"}
 
 {: .no_toc }
 
