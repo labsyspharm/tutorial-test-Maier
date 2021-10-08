@@ -7,3 +7,4 @@ parent: Methodology
 
 # Imaging Methods
 
+This is just an example of a page
