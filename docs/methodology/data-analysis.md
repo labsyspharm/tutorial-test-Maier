@@ -11,7 +11,6 @@ You can use a video to illustrate your method.
 
 ## Overview Video
 
-[![](https://img.youtube.com/vi/fnxBvgJQmtY/maxresdefault.jpg)](https://www.youtube.com/watch?v=fnxBvgJQmtY)
-{: .mt-6 .mr-10}
+{% include youtube.html id="fnxBvgJQmtY" autoplay=true mute=true %}
 
 ---

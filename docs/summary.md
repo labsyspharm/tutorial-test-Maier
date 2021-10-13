@@ -10,19 +10,15 @@ last_modified_date: 2021-10-07
 
 # Title of the paper
 {: .no_toc }
-__Full list of authors. Provide links to personal pages if there is one.__
+__Full list of authors and affilications. Provide links to personal pages if there is one.__
 
-Author affiliations
-- one university
-- two university
+__Corresponding Author__: email (optional)
 
-Corresponding Author: email (optional)
+__Publication Information__ (Journal, pages _etc._)
 
-Publication Information (Journal, pages _etc._)
+__DOI, PMID__ (if applicable)
 
-DOI, PMID (if applicable)
-
-To view full publication:
+To view full publication (in a new tab):
 
 [Journal Site](https://nature.com/){: .btn .btn-green .mr-4 }{:target="_blank"}{:rel="noopener noreferrer"}
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/){: .btn .btn-blue .mr-4}{:target="_blank"}{:rel="noopener noreferrer"}
