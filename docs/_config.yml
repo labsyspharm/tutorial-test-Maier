@@ -21,7 +21,7 @@
 title: Blank Publication Microsite
 description: >- # this means to ignore newlines until "baseurl:"
   A blank website with the LSP/HiTS custom style template 
-logo: "/assets/images/jekyll-tutorial-logo.png"
+logo: "/assets/images/blank-microsite-logo.png"
 hero_background: "/assets/images/hero_background.jpg"
 
 # Build settings
