@@ -7,9 +7,9 @@ hero_heading: "Publication Title"
 hero_body: "One or two sentences to highlight how awesome this publication is."
 hero_ctas:
   - label: "SUMMARY"
-    link: "summary/"
+    link: "summary.html/"
   - label: "DATASET"
-    link: "dataset/"
+    link: "dataset.html/"
 last_modified_date: 2021-10-06
 ---
 
