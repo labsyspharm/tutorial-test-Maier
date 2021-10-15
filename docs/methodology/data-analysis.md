@@ -11,6 +11,6 @@ You can use a video to illustrate your method.
 
 ## Overview Video
 
-{% include youtube.html id="fnxBvgJQmtY" autoplay=true mute=true %}
+{% include youtube.html id="fnxBvgJQmtY" autoplay=false mute=true %}
 
 ---
