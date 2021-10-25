@@ -25,7 +25,7 @@ logo: "/assets/images/blank-microsite-logo.png"
 hero_background: "/assets/images/hero_background.jpg"
 
 # Build settings
-remote_theme: labsyspharm/just-the-docs@hms
+remote_theme: labsyspharm/just-the-docs-lsp
 # color_scheme: mcmicro
 heading_anchors: true
 
