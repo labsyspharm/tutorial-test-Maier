@@ -39,8 +39,10 @@ back_to_top: true
 back_to_top_text: "Back to Top"
 
 # License Information
-license_name: "CC0 1.0 License"
-license_url: "https://github.com/labsyspharm/blank-pub-microsite/blob/main/LICENSE"
+license:
+  - description:
+    name: "CC0 1.0 License"
+    url: "https://github.com/labsyspharm/blank-pub-microsite/blob/main/LICENSE"
 
 # Linked logos
 footer_logos:
