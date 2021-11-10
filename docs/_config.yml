@@ -18,15 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Blank Publication Microsite
+title: Maier Test Tutorial Site
 description: >- # this means to ignore newlines until "baseurl:"
-  A blank website with the LSP/HiTS custom style template 
-logo: "/assets/images/blank-microsite-logo.png"
-hero_background: "/assets/images/hero_background.jpg"
+  A website with the LSP/HiTS custom style template made following the Jekyll tutorial.
+logo: "/assets/images/jekyll-tutorial-logo.png"
+hero_background: "/assets/images/hero_general-use.jpg"
 
 # Build settings
 remote_theme: labsyspharm/just-the-docs-lsp
-# color_scheme: mcmicro
+# color_scheme: blue
 heading_anchors: true
 
 # Banner links to include
@@ -60,7 +60,7 @@ last_edit_time_format: "%b %e %Y" # format: https://ruby-doc.org/stdlib-2.7.0/li
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: "Edit this page on GitHub."
-gh_edit_repository: "https://github.com/labsyspharm/blank-pub-microsite" # the github URL for your repo
+gh_edit_repository: "https://github.com/labsyspharm/tutorial-test-Maier" # the github URL for your repo
 gh_edit_branch: "main" # the branch that your docs is served from
 gh_edit_source: docs # the source that your files originate from
 gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
@@ -72,7 +72,7 @@ plugins:
   - jekyll-include-cache
   - jekyll-feed
 
-repository: labsyspharm/blank-pub-microsite
+repository: labsyspharm/tutorial-test-Maier
 
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
 compress_html:
